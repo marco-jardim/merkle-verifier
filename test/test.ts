@@ -1,6 +1,6 @@
 const { expect } = require("chai");
 const { ethers } = require("hardhat");
-const { MerkleTree } = require('merkletreejs')
+const { MerkleTree } = require('merkletreejs');
 
 describe("Verifier", async () => {
 
